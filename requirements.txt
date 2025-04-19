@@ -1,0 +1,10 @@
+transformers>=4.38.2
+torch>=2.1.0
+pandas
+qdrant-client>=1.6.3
+langchain>=0.1.14
+langchain-community>=0.0.29
+langchain-core>=0.1.33
+sentence-transformers
+scipy
+python-dotenv
